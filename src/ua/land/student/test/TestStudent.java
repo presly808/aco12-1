@@ -1,9 +1,8 @@
 package ua.land.student.test;
 
 
-import land.gmail.com.student.model.Address;
-import land.gmail.com.student.model.*;
-import land.gmail.com.student.util.MyStudentUtils;
+import ua.land.student.model.*;
+import ua.land.student.util.*;
 
 public class TestStudent {
     // psvm
