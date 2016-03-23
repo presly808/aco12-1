@@ -27,7 +27,7 @@ public class MyNumber {
         return value;
     }
 
-    private void setValue(long value) {
+    public void setValue(long value) {
         this.value = value;
     }
 
